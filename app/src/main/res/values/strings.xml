@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Mobiquity</string>
+
+    <string name="network_connection_error">Internet connection lost, please retry again</string>
+    <string name="network_default_error">Something wrong happened, please retry again</string>
+    <string name="network_internal_error">Our systems got an error, please retry again</string>
+    <string name="network_server_not_available">Our services are under maintenance, please retry after some time
+    </string>
+    <string name="server_connection_error">Not able to connect, please retry again</string>
+    <string name="network_login_again">Please log in again</string>
+
+    <!--login-->
+    <string name="email_field_hint">Enter your email</string>
+    <string name="password_field_hint">Enter your password</string>
+    <string name="email_field_empty">Email can\'t be empty</string>
+    <string name="password_field_empty">Password can\'t be empty</string>
+    <string name="email_field_invalid">Not a valid email</string>
+    <string name="password_field_small_length">Password less than 6 digits</string>
+    <string name="login_button_text">Login</string>
+
+
+    <!--menu-->
+    <string name="menu_home">Home</string>
+    <string name="menu_add_photos">Add Photos</string>
+    <string name="menu_profile">Profile</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="api_key_map">AIzaSyDAW_tqv_Kp2mEOyoHkPB0jHw3AH6pyrfQ</string>
+    <string name="add_location_confirm">Do you want to add location?</string>
+    <string name="current_weather">current weather</string>
+    <string name="fivedays_weather">Five Days Weather</string>
+</resources>
